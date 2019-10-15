@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head> <link rel= "stylesheet" type= "text/css" href= "bigboi.css">
+    
+  </head>
+  <body>
+    <h2> Rivals</h2>
+    
+  </body>
+  <ul>
+  <div class="body">
+    
+    <li> Edgey Peter Parker 
+    <li> Regular Peter Parker/Spiderman
+    <li> Mr.Aziz
+    <li> The Soviet Union
+    <li> Venom
+    <li> Thanos
+    <li> J. Jonah Jameson
+    <li> The Law
+    </div>
+      <h2> <a href="Powers.html">Powers </a> </h2>
+      <h2> <a href="index.html">Home </a> </h2>
+      <h2> <a href="Popular%20story%20arcs.html">Popular story arcs </a>
+
+      <img src= "edgeeeeeeeeee.jpg"
+           alt= "Edgey Peter Parker">
+      <!-- List of my Images for his rivals-->
+      
+      <img src= "spodr.jpg"
+           alt= "Peter Parker/Spiderman">
+    
+      <div class="pictures"> 
+        <img src= "gooo.jpg" width="300px" height="200px">
+        </div>
+      
+      <img src= "commie.jpg"
+           alt= "Soviet Union">
+      
+      <img src= "nut-boi.jpg"
+           alt= "Venom">
+      
+      <img src= "grape.jpg"
+           alt= "Papa Thanos">
+
+      <div class="pictures"> 
+      <img src= "jayyy.jpg" width="300px" height="200px">
+        </div>
+
+      
+      <img src= "law.jpg"
+           alt= "Law">
+
+
+
+
+
+      
+      
+
+
+
+
+
+</html>
